@@ -1,0 +1,5 @@
+<http://uri.com/person/1> <http://uri.com/property/FullName> "Tom Brady" .
+<http://uri.com/person/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://uri.com/type/person> .
+<http://uri.com/person/2> <http://uri.com/property/FullName> "Gisele Bundchen" .
+<http://uri.com/person/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://uri.com/type/person> .
+<http://uri.com/person/1> <http://uri.com/property/SpouseOf> <http://uri.com/person/2> .
